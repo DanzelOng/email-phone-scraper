@@ -43,19 +43,3 @@ for phones in filteredPhones:
 #Use pprint to organize the dict
 results = pprint.pformat(resultDict)
 print(results)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
